@@ -1,0 +1,8 @@
+/media/
+/static/
+*.sqlite3
+*.log
+*.pyc
+__pycache__
+folder3
+.DS_Store
